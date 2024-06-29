@@ -444,13 +444,13 @@ a {
   display: flex;
   justify-content: center;
 
-  /* opacity: 0;
-  pointer-events: none; */
+  opacity: 0;
+  pointer-events: none;
 }
 
 .modal-overlay.is-open {
-  opacity: 1;
-  pointer-events: auto;
+  /* opacity: 1;
+  pointer-events: auto; */
 }
 .modal {
   background-color: #fcfcfc;
