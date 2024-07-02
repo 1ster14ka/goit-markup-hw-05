@@ -632,8 +632,6 @@ textarea {
   padding: 16px 32px;
   min-width: 169px;
   height: 56px;
-  justify-self: center;
-  align-self: center;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   border: none;
   cursor: pointer;
